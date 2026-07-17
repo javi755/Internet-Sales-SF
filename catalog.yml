@@ -1,6 +1,6 @@
-unique_name: internet_sales_catalog
+unique_name: internet_sales_sf
 object_type: catalog
-label: Internet Sales
+label: Internet Sales SF
 description: The Internet Sales catalog contains the Internet Sales model which is based on AdventureWorks, a sample relational database from Microsoft that represents a fictional global manufacturing company. It models real-world business processes like product design, sales, purchasing, manufacturing, and human resources, making it a popular choice for learning, demos, and testing SQL Server features, data modeling, and analytics scenarios.
 version: 1.6
 aggressive_agg_promotion: false
